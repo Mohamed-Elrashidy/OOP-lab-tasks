@@ -10,4 +10,4 @@
 ## shapes program
 ### program calculate area and circumference for circle and triangle
 ## transpose matrix program
-###user will enter matrix and get it's transpose
+### user will enter matrix and get it's transpose
